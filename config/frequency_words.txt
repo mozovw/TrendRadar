@@ -42,40 +42,24 @@ A股
 
 港股
 
-AI
-
-人工智能
-
-自动驾驶
-
-机器人
-
 DeepSeek
 梁文锋
 
 OpenAI
 chatgpt
-openai
-sora
 
 claude
 Anthropic
 
 Apple
-iphone
-ipad
-mac
-ios
 
 谷歌
 google
 gemini
-deepmind
 
 特斯拉
 马斯克
 SpaceX
-X
 
 微软
 Microsoft
